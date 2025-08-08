@@ -1,6 +1,6 @@
 # Data Analytics in Sales Domain
 
-# The "Regional Sales Analysis" 
+# "Regional Sales Analysis" 
 It is designed to present data-driven insights into sales performance across different regions. It covers:
 
 Sales metrics and KPIs
