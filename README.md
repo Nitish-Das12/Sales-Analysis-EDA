@@ -49,12 +49,6 @@ This project focuses on analyzing sales data to uncover actionable business insi
 
 ---
 
-## 📸 Project Preview
-
-(Add screenshots of your Power BI dashboard here)
-
----
-
 ## 💡 Future Improvements
 
 * Add predictive analysis (sales forecasting)
